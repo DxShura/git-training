@@ -13,3 +13,7 @@ console.log('test211155555');
  * 
  * pour delete une branch faire git branch -d nomdelabranche
  */
+
+ /**
+  * git stash supprimer toutes les modifs qui n'ont pas été commit
+  */
